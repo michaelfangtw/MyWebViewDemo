@@ -18,11 +18,10 @@ async void InitializeAsync()
     await webView.EnsureCoreWebView2Async(null);
 }
 
+```
 Reference:
 https://developer.microsoft.com/zh-tw/microsoft-edge/webview2/
 
-
-```
 Installation
 ------------
 ```
