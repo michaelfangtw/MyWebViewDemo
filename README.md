@@ -1,4 +1,4 @@
-MyRabbitMQ
+MyWebViewDemo
 -----
 This is a C# Sample to use Microsoft Edge Webview2<br>
 
