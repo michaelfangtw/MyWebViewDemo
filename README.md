@@ -11,12 +11,16 @@ public Form1()
     this.Resize += new System.EventHandler(this.Form_Resize);
     webView.NavigationStarting += EnsureHttps;
     InitializeAsync();
+    webView.CoreWebView2.Navigate(addressBar.Text);
 }
 
 async void InitializeAsync()
 {
     await webView.EnsureCoreWebView2Async(null);
 }
+
+
+
 
 ```
 Reference:
