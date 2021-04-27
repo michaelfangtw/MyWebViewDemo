@@ -1,0 +1,6 @@
+2021/04/27-20:36:39.677 3bc Reusing MANIFEST E:\MyLabs\MyWebViewDemo\MyWebViewDemo\bin\Debug\MyWebViewDemo.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2021/04/27-20:36:39.679 3bc Recovering log #7
+2021/04/27-20:36:39.679 3bc Reusing old log E:\MyLabs\MyWebViewDemo\MyWebViewDemo\bin\Debug\MyWebViewDemo.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000007.log 
+2021/04/27-20:37:51.934 2c70 Level-0 table #11: started
+2021/04/27-20:37:51.937 2c70 Level-0 table #11: 37975 bytes OK
+2021/04/27-20:37:51.939 2c70 Delete type=0 #7
